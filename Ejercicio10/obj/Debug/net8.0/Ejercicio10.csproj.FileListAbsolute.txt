@@ -1,0 +1,15 @@
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio10\bin\Debug\net8.0\Ejercicio10.exe
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio10\bin\Debug\net8.0\Ejercicio10.deps.json
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio10\bin\Debug\net8.0\Ejercicio10.runtimeconfig.json
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio10\bin\Debug\net8.0\Ejercicio10.dll
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio10\bin\Debug\net8.0\Ejercicio10.pdb
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio10\obj\Debug\net8.0\Ejercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio10\obj\Debug\net8.0\Ejercicio10.AssemblyInfoInputs.cache
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio10\obj\Debug\net8.0\Ejercicio10.AssemblyInfo.cs
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio10\obj\Debug\net8.0\Ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio10\obj\Debug\net8.0\Ejercicio10.dll
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio10\obj\Debug\net8.0\refint\Ejercicio10.dll
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio10\obj\Debug\net8.0\Ejercicio10.pdb
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio10\obj\Debug\net8.0\Ejercicio10.genruntimeconfig.cache
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio10\obj\Debug\net8.0\ref\Ejercicio10.dll
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio10\obj\Debug\net8.0\Ejercicio10.sourcelink.json

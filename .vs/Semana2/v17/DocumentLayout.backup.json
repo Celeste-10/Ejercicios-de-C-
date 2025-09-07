@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lizbeth\\source\\repos\\Semana2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84807AA5-752D-4182-A29A-0D8DE20828DE}|Ejercicio10\\Ejercicio10.csproj|c:\\users\\lizbeth\\source\\repos\\semana2\\ejercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84807AA5-752D-4182-A29A-0D8DE20828DE}|Ejercicio10\\Ejercicio10.csproj|solutionrelative:ejercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91232F59-CB67-45F3-B3AC-8E1E2DF00763}|Ejercicio9\\Ejercicio9.csproj|c:\\users\\lizbeth\\source\\repos\\semana2\\ejercicio9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91232F59-CB67-45F3-B3AC-8E1E2DF00763}|Ejercicio9\\Ejercicio9.csproj|solutionrelative:ejercicio9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC910B70-7451-4254-B02E-EFD6BAD9574B}|Ejercicio8\\Ejercicio8.csproj|c:\\users\\lizbeth\\source\\repos\\semana2\\ejercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC910B70-7451-4254-B02E-EFD6BAD9574B}|Ejercicio8\\Ejercicio8.csproj|solutionrelative:ejercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77ACD3A-FFDF-40AD-987A-883D831FA6CB}|Ejercicio7\\Ejercicio7.csproj|c:\\users\\lizbeth\\source\\repos\\semana2\\ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77ACD3A-FFDF-40AD-987A-883D831FA6CB}|Ejercicio7\\Ejercicio7.csproj|solutionrelative:ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D49DBC5-2DC6-4B62-AD4C-99AE395F7F7F}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\lizbeth\\source\\repos\\semana2\\ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D49DBC5-2DC6-4B62-AD4C-99AE395F7F7F}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E1F1E84-D04C-42A5-9FF5-AE91B68206AB}|Ejercicio6\\Ejercicio6.csproj|c:\\users\\lizbeth\\source\\repos\\semana2\\ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E1F1E84-D04C-42A5-9FF5-AE91B68206AB}|Ejercicio6\\Ejercicio6.csproj|solutionrelative:ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF77822-F3A7-4357-ADD1-F597E1865223}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\lizbeth\\source\\repos\\semana2\\ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF77822-F3A7-4357-ADD1-F597E1865223}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79B63C4-4151-4EE9-9516-400C2D5FE80C}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\lizbeth\\source\\repos\\semana2\\ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79B63C4-4151-4EE9-9516-400C2D5FE80C}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938B8B13-E43A-415A-83E6-679CD398AF3D}|Ejercicios2\\Ejercicios2.csproj|c:\\users\\lizbeth\\source\\repos\\semana2\\ejercicios2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938B8B13-E43A-415A-83E6-679CD398AF3D}|Ejercicios2\\Ejercicios2.csproj|solutionrelative:ejercicios2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD07AF4-577C-4202-B604-0C830D1A6C8D}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\lizbeth\\source\\repos\\semana2\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD07AF4-577C-4202-B604-0C830D1A6C8D}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lizbeth\\source\\repos\\Semana2\\Ejercicio10\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio10\\Program.cs",
+              "ToolTip": "C:\\Users\\Lizbeth\\source\\repos\\Semana2\\Ejercicio10\\Program.cs",
+              "RelativeToolTip": "Ejercicio10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T14:00:18.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lizbeth\\source\\repos\\Semana2\\Ejercicio9\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio9\\Program.cs",
+              "ToolTip": "C:\\Users\\Lizbeth\\source\\repos\\Semana2\\Ejercicio9\\Program.cs",
+              "RelativeToolTip": "Ejercicio9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T13:53:27.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lizbeth\\source\\repos\\Semana2\\Ejercicio8\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio8\\Program.cs",
+              "ToolTip": "C:\\Users\\Lizbeth\\source\\repos\\Semana2\\Ejercicio8\\Program.cs",
+              "RelativeToolTip": "Ejercicio8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T13:41:16.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lizbeth\\source\\repos\\Semana2\\Ejercicio7\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio7\\Program.cs",
+              "ToolTip": "C:\\Users\\Lizbeth\\source\\repos\\Semana2\\Ejercicio7\\Program.cs",
+              "RelativeToolTip": "Ejercicio7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:31:47.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lizbeth\\source\\repos\\Semana2\\Ejercicio6\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio6\\Program.cs",
+              "ToolTip": "C:\\Users\\Lizbeth\\source\\repos\\Semana2\\Ejercicio6\\Program.cs",
+              "RelativeToolTip": "Ejercicio6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:25:28.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lizbeth\\source\\repos\\Semana2\\Ejercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\Program.cs",
+              "ToolTip": "C:\\Users\\Lizbeth\\source\\repos\\Semana2\\Ejercicio5\\Program.cs",
+              "RelativeToolTip": "Ejercicio5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:13:44.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lizbeth\\source\\repos\\Semana2\\Ejercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Program.cs",
+              "ToolTip": "C:\\Users\\Lizbeth\\source\\repos\\Semana2\\Ejercicio4\\Program.cs",
+              "RelativeToolTip": "Ejercicio4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T21:58:04.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lizbeth\\source\\repos\\Semana2\\Ejercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\Lizbeth\\source\\repos\\Semana2\\Ejercicio3\\Program.cs",
+              "RelativeToolTip": "Ejercicio3\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T21:38:09.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lizbeth\\source\\repos\\Semana2\\Ejercicios2\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicios2\\Program.cs",
+              "ToolTip": "C:\\Users\\Lizbeth\\source\\repos\\Semana2\\Ejercicios2\\Program.cs",
+              "RelativeToolTip": "Ejercicios2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T21:31:58.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lizbeth\\source\\repos\\Semana2\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\Lizbeth\\source\\repos\\Semana2\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Ejercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T21:27:36.413Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

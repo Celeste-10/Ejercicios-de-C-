@@ -1,0 +1,14 @@
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio9\bin\Debug\net8.0\Ejercicio9.exe
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio9\bin\Debug\net8.0\Ejercicio9.deps.json
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio9\bin\Debug\net8.0\Ejercicio9.runtimeconfig.json
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio9\bin\Debug\net8.0\Ejercicio9.dll
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio9\bin\Debug\net8.0\Ejercicio9.pdb
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio9\obj\Debug\net8.0\Ejercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio9\obj\Debug\net8.0\Ejercicio9.AssemblyInfoInputs.cache
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio9\obj\Debug\net8.0\Ejercicio9.AssemblyInfo.cs
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio9\obj\Debug\net8.0\Ejercicio9.csproj.CoreCompileInputs.cache
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio9\obj\Debug\net8.0\Ejercicio9.dll
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio9\obj\Debug\net8.0\refint\Ejercicio9.dll
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio9\obj\Debug\net8.0\Ejercicio9.pdb
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio9\obj\Debug\net8.0\Ejercicio9.genruntimeconfig.cache
+C:\Users\Lizbeth\source\repos\Semana2\Ejercicio9\obj\Debug\net8.0\ref\Ejercicio9.dll
